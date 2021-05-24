@@ -5,3 +5,4 @@
 3 - https://danya-prohvat.github.io/MyPortfolio/GAME <br>
 4 - https://danya-prohvat.github.io/MyPortfolio/CALCULATOR <br>
 5 - https://danya-prohvat.github.io/MyPortfolio/AUTO_SUPPLEMENT <br>
+5 - https://danya-prohvat.github.io/MyPortfolio/shopPage <br>
