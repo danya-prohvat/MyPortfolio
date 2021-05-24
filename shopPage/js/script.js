@@ -7,15 +7,20 @@ let container = document.querySelector('.main-content__content__items'),
 let state = {},
     globalCurrentPage = 1;
 
-const request = () => fetch('../index.json')
-    .then(response => response.json())
-    .then(data => {
-        state = [...data];
-        console.log(state);
-        globalCurrentPage = 1;
-        render();
-    })
-
+const request = () => {
+    let request = new XMLHttpRequest();
+    request.open('GET', '../index.json');
+    request.setRequestHeader('Content-type', 'application/json; charset=utf-8');
+    request.send();
+    request.addEventListener('readystatechange', () => {
+        if (request.readyState === 4 && request.status === 200) {
+            state = JSON.parse(request.response);
+            console.log(state);
+            globalCurrentPage = 1;
+            render();
+        }
+    });
+}
 request();
 
 
@@ -90,10 +95,13 @@ function clearButtonObserver() {
 
 function searchObserver(event) {
     let temp = [];
-    fetch('../index.json')
-        .then(response => response.json())
-        .then(data => {
-            state = [...data];
+    let request = new XMLHttpRequest();
+    request.open('GET', '../index.json');
+    request.setRequestHeader('Content-type', 'application/json; charset=utf-8');
+    request.send();
+    request.addEventListener('readystatechange', () => {
+        if (request.readyState === 4 && request.status === 200) {
+            state = [...JSON.parse(request.response)];
             console.log(state);
             globalCurrentPage = 1;
 
@@ -105,7 +113,8 @@ function searchObserver(event) {
             });
             state = [...temp]
             render();
-        })
+        }
+    });
 
 }
 
@@ -115,5 +124,3 @@ function render() {
     printCollection(globalCurrentPage);
     startObserving();
 }
-
-
