@@ -8,6 +8,7 @@ let state = {},
     globalCurrentPage = 1;
 
 
+const request = () => {
     let request = new XMLHttpRequest();
     request.open('GET', '../index.json');
     request.setRequestHeader('Content-type', 'application/json; charset=utf-8');
@@ -20,6 +21,8 @@ let state = {},
             render();
         }
     });
+}
+request();
 
 
 
