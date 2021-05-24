@@ -10,7 +10,7 @@ let state = {},
 
 const request = () => {
     let request = new XMLHttpRequest();
-    request.open('GET', '../index.json');
+    request.open('GET', 'index.json');
     request.setRequestHeader('Content-type', 'application/json; charset=utf-8');
     request.send();
     request.addEventListener('readystatechange', () => {
