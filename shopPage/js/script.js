@@ -98,7 +98,7 @@ function clearButtonObserver() {
 function searchObserver(event) {
     let temp = [];
     let request = new XMLHttpRequest();
-    request.open('GET', '../index.json');
+    request.open('GET', 'index.json');
     request.setRequestHeader('Content-type', 'application/json; charset=utf-8');
     request.send();
     request.addEventListener('readystatechange', () => {
