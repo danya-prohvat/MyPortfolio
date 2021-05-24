@@ -7,7 +7,7 @@ let container = document.querySelector('.main-content__content__items'),
 let state = {},
     globalCurrentPage = 1;
 
-const request = () => {
+
     let request = new XMLHttpRequest();
     request.open('GET', '../index.json');
     request.setRequestHeader('Content-type', 'application/json; charset=utf-8');
@@ -20,8 +20,7 @@ const request = () => {
             render();
         }
     });
-}
-request();
+
 
 
 function printPagination(currentPage) {
