@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanban Board</title>
+    <link rel="stylesheet" href="css/style.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+          rel="stylesheet">
+</head>
+<body>
+
+
+<section class="container">
+    <div class="topStrip">
+        <h2>Kanban</h2>
+    </div>
+    <div class="board">
+        <div class="board__container">
+            <div class="board__item toDo">
+                <h2>To do</h2>
+                <div></div>
+                <div class="plug"></div>
+                <div class="addCard">
+                    <h3>Add another card...</h3>
+                </div>
+            </div>
+            <div class="board__item doing">
+                <h2>Doing</h2>
+                <div></div>
+                <div class="plug"></div>
+            </div>
+            <div class="board__item done">
+                <h2>Done</h2>
+                <div></div>
+                <div class="plug"></div>
+            </div>
+        </div>
+        <div class="board__del ">
+            <h2>Delete card</h2>
+        </div>
+    </div>
+</section>
+
+<div class="popup">
+    <div class="popup-dialog">
+        <div class="popup-content">
+            <form class="form" action="#">
+                <input class="task" type="text" placeholder="Input task" required>
+                <input class="development" type="text" placeholder="Input development" required>
+                <input class="executor" type="text" placeholder="Input executor" required>
+                <button class="addCardBtn"><h6>Add card</h6></button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>
