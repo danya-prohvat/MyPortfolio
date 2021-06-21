@@ -7,3 +7,4 @@
 5 - https://danya-prohvat.github.io/MyPortfolio/AUTO_SUPPLEMENT <br>
 6 - https://danya-prohvat.github.io/MyPortfolio/shopPage <br>
 7 - https://danya-prohvat.github.io/MyPortfolio/themeForest <br>
+8 - https://danya-prohvat.github.io/MyPortfolio/KANBAN <br>
