@@ -10,4 +10,5 @@
 8 - https://danya-prohvat.github.io/MyPortfolio/KANBAN <br>
 9 - https://danya-prohvat.github.io/English-Test/dist <br>
 10 - https://danya-prohvat.github.io/todos <br>
-11 - https://danya-prohvat.github.io/flat-rent/#/
+11 - https://danya-prohvat.github.io/flat-rent/#/ <br>
+12 - https://danya-prohvat.github.io/weather-app
