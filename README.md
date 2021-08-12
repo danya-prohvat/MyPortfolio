@@ -1,14 +1,17 @@
 # MyPortfolio
+<h2>HTML coding</h2>
+https://danya-prohvat.github.io/MyPortfolio/themeForest <br>
+https://danya-prohvat.github.io/MyPortfolio/Laas <br>
+https://danya-prohvat.github.io/MyPortfolio/Localise <br>
+<h2>JS</h2>
+https://danya-prohvat.github.io/MyPortfolio/GAME <br>
+https://danya-prohvat.github.io/MyPortfolio/CALCULATOR <br>
+https://danya-prohvat.github.io/MyPortfolio/AUTO_SUPPLEMENT <br>
+https://danya-prohvat.github.io/MyPortfolio/shopPage <br>
+https://danya-prohvat.github.io/MyPortfolio/KANBAN <br>
+https://danya-prohvat.github.io/English-Test/dist <br>
+<h2>React/redux</h2>
+https://danya-prohvat.github.io/todos <br>
+https://danya-prohvat.github.io/flat-rent/#/ <br>
+https://danya-prohvat.github.io/weather-app <br>
 
-1 - https://danya-prohvat.github.io/MyPortfolio/Laas <br>
-2 - https://danya-prohvat.github.io/MyPortfolio/Localise <br>
-3 - https://danya-prohvat.github.io/MyPortfolio/GAME <br>
-4 - https://danya-prohvat.github.io/MyPortfolio/CALCULATOR <br>
-5 - https://danya-prohvat.github.io/MyPortfolio/AUTO_SUPPLEMENT <br>
-6 - https://danya-prohvat.github.io/MyPortfolio/shopPage <br>
-7 - https://danya-prohvat.github.io/MyPortfolio/themeForest <br>
-8 - https://danya-prohvat.github.io/MyPortfolio/KANBAN <br>
-9 - https://danya-prohvat.github.io/English-Test/dist <br>
-10 - https://danya-prohvat.github.io/todos <br>
-11 - https://danya-prohvat.github.io/flat-rent/#/ <br>
-12 - https://danya-prohvat.github.io/weather-app
