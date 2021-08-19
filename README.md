@@ -24,7 +24,7 @@ https://danya-prohvat.github.io/English-Test/dist <br>
 <br>
 <h3><a href='https://danya-prohvat.github.io/flat-rent/#/'>Flat rent app</a></h3> 
 <img src='https://user-images.githubusercontent.com/59499037/130086165-9154d414-8f58-4b42-ac43-65f434e9a8e3.png'> 
-<p></p>
+<p>App allows view, filter and edit flats. It have 50 static added flats(without http-request, app don't use server, only using state). You can filter ads by price, area(square meter), rooms, location and availability of furniture, also view ads on a separate page. There is also authorization from test account, it help to you edit your ads.</p>
 <label>libs & texnologies:</label>
 <ul>
 <li>Redux</li>
