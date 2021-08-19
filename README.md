@@ -21,8 +21,8 @@ https://danya-prohvat.github.io/flat-rent/#/
 <br>
 <br>
 <br>
-<a href='https://danya-prohvat.github.io/weather-app'>Weather app</a> <br>
-https://danya-prohvat.github.io/weather-app <br>
+<h3><a href='https://danya-prohvat.github.io/weather-app'>Weather app</a></h3> <br>
+<p>https://danya-prohvat.github.io/weather-app</p> <br>
 <img src='https://user-images.githubusercontent.com/59499037/130082947-58fb25f0-2c52-45f1-9d67-4cc5bca67360.png'> 
 
 
