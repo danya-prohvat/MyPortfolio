@@ -30,7 +30,7 @@ https://danya-prohvat.github.io/English-Test/dist <br>
 <br>
 <h3><a href='https://danya-prohvat.github.io/weather-app'>Weather app</a></h3> 
 <img src='https://user-images.githubusercontent.com/59499037/130082947-58fb25f0-2c52-45f1-9d67-4cc5bca67360.png'> 
-<p>It's classic simple todo app, my first React-project. App allows create, delete, mark tasks. Also, you may filter tasks by status.</p>
+<p>Weather app with http requests. It displays weather data in Ukrainian cities. You can change temperatue unit(C, F) in top-left window. <a href='https://openweathermap.org/'>OpenWeather</a> is responsible for the quality weather data.</p>
 <label>libs & texnologies:</label>
 <ul>
 <li>Redux</li>
