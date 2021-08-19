@@ -24,7 +24,16 @@ https://danya-prohvat.github.io/English-Test/dist <br>
 <br>
 <h3><a href='https://danya-prohvat.github.io/flat-rent/#/'>Flat rent app</a></h3> 
 <img src='https://user-images.githubusercontent.com/59499037/130086165-9154d414-8f58-4b42-ac43-65f434e9a8e3.png'> 
-<p>DESCRIPTION</p>
+<p></p>
+<label>libs & texnologies:</label>
+<ul>
+<li>Redux</li>
+<li>React-redux(connect)</li>
+<li>React-router-dom</li>
+<li>Redux-form</li>
+<li>Classnames</li>
+<li>HOC</li>
+</ul>
 <br>
 <br>
 <br>
