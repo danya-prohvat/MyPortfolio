@@ -16,6 +16,7 @@ https://danya-prohvat.github.io/todos <br>
 https://danya-prohvat.github.io/flat-rent/#/ <br>
 https://danya-prohvat.github.io/weather-app <br>
 ![weather-app](https://user-images.githubusercontent.com/59499037/130082947-58fb25f0-2c52-45f1-9d67-4cc5bca67360.png)
+<img src='https://user-images.githubusercontent.com/59499037/130082947-58fb25f0-2c52-45f1-9d67-4cc5bca67360.png'> 
 
 
 
