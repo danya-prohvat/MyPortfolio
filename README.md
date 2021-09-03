@@ -3,6 +3,9 @@
 https://danya-prohvat.github.io/MyPortfolio/themeForest <br>
 https://danya-prohvat.github.io/MyPortfolio/Laas <br>
 https://danya-prohvat.github.io/MyPortfolio/Localise <br>
+<h3><a href='https://danya-prohvat.github.io/MyPortfolio/themeForest'>Theme Forest</a></h3> 
+<h3><a href='https://danya-prohvat.github.io/MyPortfolio/Laas'>Lass</a></h3> 
+<h3><a href='https://danya-prohvat.github.io/MyPortfolio/Localise'>Localise</a></h3> 
 <h2>JS</h2>
 https://danya-prohvat.github.io/MyPortfolio/GAME <br>
 https://danya-prohvat.github.io/MyPortfolio/CALCULATOR <br>
