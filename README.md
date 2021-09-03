@@ -3,8 +3,8 @@
 <h3><a href='https://danya-prohvat.github.io/MyPortfolio/themeForest'>Theme Forest</a></h3> 
 <img width="200" src='https://user-images.githubusercontent.com/59499037/132040992-b99831d6-059c-4544-b3bd-c1323930a07d.png'>
 <h3><a href='https://danya-prohvat.github.io/MyPortfolio/Laas'>Lass</a></h3> 
-<img width="200" src='https://user-images.githubusercontent.com/59499037/132041807-4a5ef571-cd45-450a-abd8-d66c503ab9fb.png'>
-<img width="200" src='https://user-images.githubusercontent.com/59499037/132041807-4a5ef571-cd45-450a-abd8-d66c503ab9fb.png'>
+<img width="200" align="left" src='https://user-images.githubusercontent.com/59499037/132041807-4a5ef571-cd45-450a-abd8-d66c503ab9fb.png'>
+<img width="200" align="right" src='https://user-images.githubusercontent.com/59499037/132041807-4a5ef571-cd45-450a-abd8-d66c503ab9fb.png'>
 <h3><a href='https://danya-prohvat.github.io/MyPortfolio/Localise'>Localise</a></h3> 
 <img width="200" src='https://user-images.githubusercontent.com/59499037/132041849-64693141-78e5-49f3-8e19-36a7e528fc87.png'> 
 <h2>JS</h2>
