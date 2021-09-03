@@ -6,7 +6,7 @@ https://danya-prohvat.github.io/MyPortfolio/themeForest <br>
 https://danya-prohvat.github.io/MyPortfolio/Laas <br>
 https://danya-prohvat.github.io/MyPortfolio/Localise <br>
 <h3><a href='https://danya-prohvat.github.io/MyPortfolio/themeForest'>Theme Forest</a></h3> 
-<img width="100" src='https://user-images.githubusercontent.com/59499037/132040992-b99831d6-059c-4544-b3bd-c1323930a07d.png'> 
+<img align="left" width="100" height="100" src='https://user-images.githubusercontent.com/59499037/132040992-b99831d6-059c-4544-b3bd-c1323930a07d.png'> 
 
 <h3><a href='https://danya-prohvat.github.io/MyPortfolio/Laas'>Lass</a></h3> 
 <h3><a href='https://danya-prohvat.github.io/MyPortfolio/Localise'>Localise</a></h3> 
