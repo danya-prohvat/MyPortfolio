@@ -7,6 +7,12 @@
 <h3><a href='https://danya-prohvat.github.io/MyPortfolio/Localise'>Localise</a></h3> 
 <img width="200" src='https://user-images.githubusercontent.com/59499037/132041849-64693141-78e5-49f3-8e19-36a7e528fc87.png'> 
 <h2>JS</h2>
+<h3><a href='https://danya-prohvat.github.io/MyPortfolio/GAME'>Game</a></h3> 
+<h3><a href='https://danya-prohvat.github.io/MyPortfolio/CALCULATOR'>Calculator</a></h3> 
+<h3><a href='https://danya-prohvat.github.io/MyPortfolio/shopPage'>Shop Page</a></h3> 
+<h3><a href='https://danya-prohvat.github.io/MyPortfolio/KANBAN'>Kanban board</a></h3> 
+<h3><a href='https://danya-prohvat.github.io/English-Test/dist'>English test</a></h3> 
+
 https://danya-prohvat.github.io/MyPortfolio/GAME <br>
 https://danya-prohvat.github.io/MyPortfolio/CALCULATOR <br>
 https://danya-prohvat.github.io/MyPortfolio/shopPage <br>
