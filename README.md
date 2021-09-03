@@ -14,8 +14,8 @@
 <h3><a href='https://danya-prohvat.github.io/English-Test/dist'>English test</a></h3> 
 <img src='https://user-images.githubusercontent.com/59499037/132043354-b716fe0f-bbc9-40d1-9a8e-24ff57221395.png'>
 <h3>Other projects:</h3>
-<h3><a href='https://danya-prohvat.github.io/MyPortfolio/GAME'>Game</a></h3> 
-<h3><a href='https://danya-prohvat.github.io/MyPortfolio/shopPage'>Shop Page</a></h3> 
+  <h3><a href='https://danya-prohvat.github.io/MyPortfolio/GAME'>Game</a></h3> 
+  <h3><a href='https://danya-prohvat.github.io/MyPortfolio/shopPage'>Shop Page</a></h3> 
 <h2>React/redux</h2>
 <h3><a href='https://danya-prohvat.github.io/todos'>Todo app</a></h3> 
 <img src='https://user-images.githubusercontent.com/59499037/130082987-bcd41eeb-f9ab-43e1-852b-2fd62efb6274.png'> 
