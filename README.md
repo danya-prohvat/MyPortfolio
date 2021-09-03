@@ -1,5 +1,5 @@
 # MyPortfolio
-<h2>HTML coding</h2>
+<h2 fontSize="70" >HTML coding</h2>
 <h3><a href='https://danya-prohvat.github.io/MyPortfolio/themeForest'>Theme Forest</a></h3> 
 <img width="200" src='https://user-images.githubusercontent.com/59499037/132040992-b99831d6-059c-4544-b3bd-c1323930a07d.png'>
 <h3><a href='https://danya-prohvat.github.io/MyPortfolio/Laas'>Lass</a></h3> 
