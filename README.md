@@ -21,7 +21,7 @@
     <ul>
       <li><a href="#TodoApp">Todo app</a></li>
       <li><a href="#FlatRentApp">Flat rent app</a></li>
-      <li><a href="#WeatherApp">Weather App</a></li>
+      <li><a href="#WeatherApp">Weather app</a></li>
     </ul>
   </li>
 </ul>
