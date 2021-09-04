@@ -11,7 +11,7 @@
   <li>
     <h2>JS</h2>
     <ul>
-      <li><a href="#Calculator">Theme Forest</a></li>
+      <li><a href="#Calculator">Calculator</a></li>
       <li><a href="#Kanbanboard">Kanban board</a></li>
       <li><a href="#Localise">English test</a></li>
     </ul>
