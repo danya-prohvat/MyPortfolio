@@ -1,4 +1,3 @@
-<h1>Navigation</h1>
 <ul>
   <li>
     <h2>React/redux</h2>
