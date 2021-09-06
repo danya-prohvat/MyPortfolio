@@ -32,19 +32,23 @@
 
 
 <h2>React/redux</h2>
-<h3 id="TodoApp"><a href='https://danya-prohvat.github.io/todos'>Todo app</a></h3> 
-<p><a href='https://github.com/danya-prohvat/todos'>see code</a></p>
-<img src='https://user-images.githubusercontent.com/59499037/130082987-bcd41eeb-f9ab-43e1-852b-2fd62efb6274.png'> 
-<p>It's classic simple todo app, my first React-project. App allows create, delete, mark tasks. Also, you may filter tasks by status.</p>
+
+
+<h3 id="WeatherApp"><a href='https://danya-prohvat.github.io/weather-app'>Weather app</a></h3> 
+<p><a href='https://github.com/danya-prohvat/weather-app'>see code</a></p>
+<img src='https://user-images.githubusercontent.com/59499037/130082947-58fb25f0-2c52-45f1-9d67-4cc5bca67360.png'> 
+<p>Weather app with http requests. It displays weather data in Ukrainian cities. You can change temperatue unit(C, F) in top-right of screen. <a href='https://openweathermap.org/'>OpenWeather</a> is responsible for the quality weather data. App helps to know today weather(temperature, cloudiness, humidity, wind, visibility, pressure, sun rise and sun set) and next day weather.</p>
 <label>libs & texnologies:</label>
 <ul>
 <li>Redux</li>
 <li>React-redux(connect)</li>
+<li>Redux-thunk</li>
+<li>Axios</li>
 <li>Classnames</li>
+<li>HOC</li>
+<li>useState, useEffect</li>
 </ul>
-<br>
-<br>
-<br>
+
 <h3 id="FlatRentApp"><a href='https://danya-prohvat.github.io/flat-rent/#/'>Flat rent app</a></h3> 
 <p><a href='https://github.com/danya-prohvat/flat-rent'>see code</a></p>
 <img src='https://user-images.githubusercontent.com/59499037/130086165-9154d414-8f58-4b42-ac43-65f434e9a8e3.png'> 
@@ -61,20 +65,20 @@
 <br>
 <br>
 <br>
-<h3 id="WeatherApp"><a href='https://danya-prohvat.github.io/weather-app'>Weather app</a></h3> 
-<p><a href='https://github.com/danya-prohvat/weather-app'>see code</a></p>
-<img src='https://user-images.githubusercontent.com/59499037/130082947-58fb25f0-2c52-45f1-9d67-4cc5bca67360.png'> 
-<p>Weather app with http requests. It displays weather data in Ukrainian cities. You can change temperatue unit(C, F) in top-right of screen. <a href='https://openweathermap.org/'>OpenWeather</a> is responsible for the quality weather data. App helps to know today weather(temperature, cloudiness, humidity, wind, visibility, pressure, sun rise and sun set) and next day weather.</p>
+
+<h3 id="TodoApp"><a href='https://danya-prohvat.github.io/todos'>Todo app</a></h3> 
+<p><a href='https://github.com/danya-prohvat/todos'>see code</a></p>
+<img src='https://user-images.githubusercontent.com/59499037/130082987-bcd41eeb-f9ab-43e1-852b-2fd62efb6274.png'> 
+<p>It's classic simple todo app, my first React-project. App allows create, delete, mark tasks. Also, you may filter tasks by status.</p>
 <label>libs & texnologies:</label>
 <ul>
 <li>Redux</li>
 <li>React-redux(connect)</li>
-<li>Redux-thunk</li>
-<li>Axios</li>
 <li>Classnames</li>
-<li>HOC</li>
-<li>useState, useEffect</li>
 </ul>
+<br>
+<br>
+<br>
 
 
 <h2>JS</h2>
