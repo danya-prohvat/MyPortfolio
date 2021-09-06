@@ -48,6 +48,7 @@
 <li>HOC</li>
 <li>useState, useEffect</li>
 </ul>
+<br>
 
 <h3 id="FlatRentApp"><a href='https://danya-prohvat.github.io/flat-rent/#/'>Flat rent app</a></h3> 
 <p><a href='https://github.com/danya-prohvat/flat-rent'>see code</a></p>
@@ -62,8 +63,6 @@
 <li>Classnames</li>
 <li>HOC</li>
 </ul>
-<br>
-<br>
 <br>
 
 <h3 id="TodoApp"><a href='https://danya-prohvat.github.io/todos'>Todo app</a></h3> 
