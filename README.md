@@ -33,7 +33,7 @@
 
 <h2>React/redux</h2>
 <h3 id="TodoApp"><a href='https://danya-prohvat.github.io/todos'>Todo app</a></h3> 
-<span><a href=''>see code</a></span> <br>
+<p><a href=''>see code</a></p> <br>
 <img src='https://user-images.githubusercontent.com/59499037/130082987-bcd41eeb-f9ab-43e1-852b-2fd62efb6274.png'> 
 <p>It's classic simple todo app, my first React-project. App allows create, delete, mark tasks. Also, you may filter tasks by status.</p>
 <label>libs & texnologies:</label>
