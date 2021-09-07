@@ -1,10 +1,10 @@
 
-    <h2>React/redux</h2>
-    <ul>
+<h2>React/redux</h2>
+<ul>
       <li><a href="#WeatherApp">Weather app</a></li>
       <li><a href="#FlatRentApp">Flat rent app</a></li>
       <li><a href="#TodoApp">Todo app</a></li>
-    </ul>
+</ul>
  
     <h2>JS</h2>
     
