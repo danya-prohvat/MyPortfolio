@@ -1,28 +1,26 @@
-<ul>
-  <li>
+
     <h2>React/redux</h2>
     <ul>
       <li><a href="#WeatherApp">Weather app</a></li>
       <li><a href="#FlatRentApp">Flat rent app</a></li>
       <li><a href="#TodoApp">Todo app</a></li>
     </ul>
-  </li>
+ 
     <h2>JS</h2>
-    <ul>
+    
       <li><a href="#Calculator">Calculator</a></li>
       <li><a href="#KanbanBoard">Kanban board</a></li>
       <li><a href="#EnglishTest">English test</a></li>
     </ul>
-  </li>
-  <li>
+ 
+
     <h2>HTML coding</h2>
     <ul>
       <li><a href="#ThemeForest">Theme Forest</a></li>
       <li><a href="#Lass">Lass</a></li>
       <li><a href="#Localise">Localise</a></li>
     </ul>
-  </li>
-</ul>
+
 <br><br><br><br><br><br>
 
 
