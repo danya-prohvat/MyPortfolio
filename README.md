@@ -13,7 +13,7 @@
       <li><a href="#EnglishTest">English test</a></li>
 </ul>
 
-<h2>HTML coding</h2>
+<h2>HTML/CSS</h2>
 <ul>
       <li><a href="#ThemeForest">Theme Forest</a></li>
       <li><a href="#Lass">Lass</a></li>
@@ -89,7 +89,7 @@
 <h3><a href='https://danya-prohvat.github.io/MyPortfolio/shopPage'>Shop Page</a></h3> 
 
 
-<h2>HTML coding</h2>
+<h2>HTML/CSS</h2>
 <h3 id="ThemeForest"><a href='https://danya-prohvat.github.io/MyPortfolio/themeForest'>Theme Forest</a></h3> 
 <img width="200" src='https://user-images.githubusercontent.com/59499037/132040992-b99831d6-059c-4544-b3bd-c1323930a07d.png'>
 <h3 id="Lass"><a href='https://danya-prohvat.github.io/MyPortfolio/Laas'>Lass</a></h3> 
