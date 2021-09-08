@@ -52,7 +52,7 @@
 <img src='https://user-images.githubusercontent.com/59499037/132523822-2e618bef-07cb-47c9-8962-8b48de598741.png'> 
 <img src='https://user-images.githubusercontent.com/59499037/132524206-92de9ebc-0f33-4a64-81e8-97248eb90e58.png'> 
 <img src='https://user-images.githubusercontent.com/59499037/132523813-20ec4e8b-bf09-4115-95e2-951c6418480b.png'> 
-<p></p>
+<p>This is a full-fledged online store (laptops store with authorization), developmeted me as student project. Application allows you to view, add, remove laptops in basket. Also it supports authorization with form data validation. You can filter laptops by name and price(in dollars). I used 'json-server' as server.</p>
 <label>libs & texnologies:</label>
 <ul>
 <li>Redux toolkit</li>
