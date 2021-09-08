@@ -2,6 +2,7 @@
 <h2>React/redux</h2>
 <ul>
       <li><a href="#WeatherApp">Weather app</a></li>
+      <li><a href="#ReactShop">React shop</a></li>
       <li><a href="#FlatRentApp">Flat rent app</a></li>
       <li><a href="#TodoApp">Todo app</a></li>
 </ul>
@@ -44,6 +45,14 @@
 <li>Classnames</li>
 <li>HOC</li>
 <li>useState, useEffect</li>
+</ul>
+<br>
+
+<h3 id="ReactShop"><a>React shop</a></h3> 
+<p><a href=''>see code</a></p>
+<label>libs & texnologies:</label>
+<ul>
+      
 </ul>
 <br>
 
