@@ -49,7 +49,7 @@
 <br>
 
 <h3 id="ReactShop"><a>React shop</a></h3> 
-<p><a href='https://danya-prohvat.github.io/shop-app'>see code</a></p>
+<p><a href='https://github.com/danya-prohvat/shop-app'>see code</a></p>
 <label>libs & texnologies:</label>
 <ul>
 <li>Redux toolkit</li>
