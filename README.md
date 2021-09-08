@@ -52,7 +52,16 @@
 <p><a href=''>see code</a></p>
 <label>libs & texnologies:</label>
 <ul>
-      
+<li>Redux toolkit</li>
+<li>React-redux(useSelector, useDispatch)</li>
+<li>React-router-dom</li>
+<li>Formik</li>
+<li>Classnames</li>
+<li>Sass/scss</li>
+<li>Axios</li>
+<li>useState, useEffect</li>
+<li>Typescript</li>
+<li>json-server</li>
 </ul>
 <br>
 
